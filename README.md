@@ -1,9 +1,6 @@
 # Hi there, I'm Sixten 👋
 
-A passionate software developer from Sweden 🇸🇪
-
-- 🌱 I’m currently learning about fullstack development using Next.js.
-- ⚡ Fun fact: I love league, weightlifting and playing guitar.
+A passionate developer from Sweden 🇸🇪
 
 ## Connect with me 📮
 Here's some links where you can reach me:
