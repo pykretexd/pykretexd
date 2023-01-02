@@ -1,7 +1,3 @@
-# Hi there, I'm Sixten 👋
-
-A developer from Sweden 🇸🇪
-
 ## Connect with me 📮
 Here's some links where you can reach me:
 
