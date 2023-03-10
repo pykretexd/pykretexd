@@ -1,4 +1,4 @@
-### Sixtenl
+### Sixten
 
 Introducing the one and only mastermind who can write semi-functional rust code.
 
