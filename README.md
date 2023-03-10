@@ -1,12 +1,6 @@
 ## Connect with me 📮
 Here's some links where you can reach me:
 
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sixten-landy#gh-light-mode-only)
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sixten-landy#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![landysixten@gmail.com](./img/envelope-dark.svg)](mailto:landysixten@gmail.com#gh-light-mode-only)
-[![landysixten@gmail.com](./img/envelope-light.svg)](mailto:landysixten@gmail.com#gh-dark-mode-only)
-
 ## Languages and tools 🛠
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
